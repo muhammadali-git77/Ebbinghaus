@@ -1,0 +1,25 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+exports.id = "_rsc_messages_uz_json";
+exports.ids = ["_rsc_messages_uz_json"];
+exports.modules = {
+
+/***/ "(rsc)/./messages/uz.json":
+/*!**************************!*\
+  !*** ./messages/uz.json ***!
+  \**************************/
+/***/ ((module) => {
+
+module.exports = JSON.parse('{"common":{"addWord":"So\'z qo\'shish","statistics":"Statistika","back":"Orqaga","next":"Keyingi","check":"Tekshirish","showAnswer":"Javobni ko\'rish","correct":"To\'g\'ri","incorrect":"Noto\'g\'ri","total":"Jami","startReview":"Tekshirishni boshlash","noReview":"Tekshirish yo\'q","reviewComplete":"Tekshirish tugadi","addNewWord":"Yangi so\'z qo\'shish","englishWord":"Inglizcha so\'z","uzbekTranslation":"O\'zbekcha tarjima","enterAnswer":"Javobingizni kiriting...","translateWord":"So\'zni tarjima qiling","findTranslation":"Tarjimani toping","successRate":"Muvaffaqiyat darajasi","wordsInBoxes":"Qutilarda","quickStats":"Tezkor ma\'lumot","boxDistribution":"Qutilar bo\'yicha taqsimot"},"boxes":{"everyHour":"Har soatda","fiveHours":"Har 5 soatda","everyDay":"Har kuni","fiveDays":"Har 5 kunda","everyMonth":"Har oyda"},"intervals":{"1hour":"1 soat","5hours":"5 soat","1day":"1 kun","5days":"5 kun","1month":"1 oy"},"messages":{"correctAnswer":"To\'g\'ri! 🎉","goodAnswer":"Yaxshi! 👍","synonymAccepted":"Sinonim ham qabul qilindi! ✨","wrongAnswer":"Noto\'g\'ri. To\'g\'ri javob: \\"{answer}\\"","enterAnswer":"Iltimos, javobingizni kiriting!","enterWordAndTranslation":"Iltimos, so\'z va tarjimasini kiriting!","errorAddingWord":"So\'z qo\'shishda xatolik!","noWordsToReview":"Bu qutida tekshirish uchun so\'zlar yo\'q.","reviewFinished":"Tekshirish tugadi!"},"stats":{"totalWords":"Jami so\'zlar","correctAnswers":"To\'g\'ri javoblar","incorrectAnswers":"Noto\'g\'ri javoblar","box1":"Quti 1: Har soatda","box2":"Quti 2: Har 5 soatda","box3":"Quti 3: Har kuni","box4":"Quti 4: Har 5 kunda","box5":"Quti 5: Har oyda"}}');
+
+/***/ })
+
+};
+;
